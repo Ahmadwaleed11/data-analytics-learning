@@ -13,9 +13,3 @@ Python, pandas, Jupyter Notebook
 
 ## Current Focus
 Python pandas revision → SQL → Statistics → Visualization → Portfolio Project
-
-## Day 2 (Aug 5, 2026)
-- revise the previous code
-- llearn group by , sorting, agg , pivot table
-- solve question problem
-- Completed Kaggle Pandas Lessons 3 and 4 
