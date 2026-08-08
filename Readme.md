@@ -19,3 +19,6 @@ Python pandas revision → SQL → Statistics → Visualization → Portfolio Pr
 - llearn group by , sorting, agg , pivot table
 - solve question problem
 - Completed Kaggle Pandas Lessons 3 and 4 
+
+## Day 3,4 
+learn about index , filtering, rename, replace, update, select row amd columns
