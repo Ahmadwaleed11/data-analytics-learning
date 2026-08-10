@@ -20,5 +20,8 @@ Python pandas revision → SQL → Statistics → Visualization → Portfolio Pr
 - solve question problem
 - Completed Kaggle Pandas Lessons 3 and 4 
 
-## Day 3,4 
+## Day 3,4 ,5
 learn about index , filtering, rename, replace, update, select row amd columns
+
+## Day 6,7 
+learning about add data in row , applu, map, replace and append, concatt 
