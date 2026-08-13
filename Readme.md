@@ -24,4 +24,6 @@ Python pandas revision → SQL → Statistics → Visualization → Portfolio Pr
 learn about index , filtering, rename, replace, update, select row amd columns
 
 ## Day 6,7 
-learning about add data in row , applu, map, replace and append, concatt 
+learning about add data in row , apply, map, replace and append, concatt 
+## Day 8,9
+learning concat, sorting, groupby , aggretion
