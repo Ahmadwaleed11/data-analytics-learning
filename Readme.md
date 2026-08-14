@@ -27,3 +27,7 @@ learn about index , filtering, rename, replace, update, select row amd columns
 learning about add data in row , apply, map, replace and append, concatt 
 ## Day 8,9
 learning concat, sorting, groupby , aggretion
+
+
+## Day 10
+learning data cleaning, dropna, fillna, dtype, change datatype, 
