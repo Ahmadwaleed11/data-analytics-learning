@@ -31,3 +31,7 @@ learning concat, sorting, groupby , aggretion
 
 ## Day 10
 learning data cleaning, dropna, fillna, dtype, change datatype, 
+
+
+## Day 11,12
+learning handling missing values, datetime, time delta , resample, format like excel,csv,json and how to save it  
